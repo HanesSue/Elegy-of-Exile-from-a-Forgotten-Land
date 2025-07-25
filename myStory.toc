@@ -1,0 +1,19 @@
+\contentsline {chapter}{写在最前}{i}{chapter*.1}%
+\contentsline {section}{一些关于创作的琐碎}{i}{section*.2}%
+\thispagestyle {empty}
+\ttl@change@i {\@ne }{part}{0pt}{\vspace {1.5ex}\hrule \vspace {1.5ex}\centering \Large \bfseries }{\contentslabel {0em}}{}{\hfill \contentspage \vspace {1ex}}\relax 
+\ttl@change@v {part}{}{}{}\relax 
+\ttl@change@i {\@ne }{chapter}{0pt}{\vspace {1.5ex}\bfseries \Large }{\contentslabel {2.5em}\hspace {0.5em}}{}{\hfill \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{3em}{\normalsize \bfseries }{\contentslabel {2em}\hspace {0.5em}}{}{\hfill \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{6em}{\normalsize \itshape }{\contentslabel {2em}\hspace {0.5em}}{}{\hfill \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {part}{序曲--未完之歌}{2}{part*.4}%
+\contentsline {chapter}{彷徨于世的异乡人}{2}{chapter*.5}%
+\contentsline {section}{其一}{2}{section*.6}%
+\contentsline {section}{其二}{5}{section*.6}%
+\contentsline {part}{I\hspace {1em}宣叙调--颂唱凋零的前夜}{13}{part.1}%
+\contentsline {chapter}{众使徒陨落的风暴之栖}{14}{chapter*.7}%
+\contentsline {section}{布道者与施善者}{14}{section*.8}%
+\contentsfinish 
