@@ -2,8 +2,8 @@
 
 本项目的 LaTeX 编译结构基于以下开源模板：
 
-- 📁 模板名称：**ElegantBook LaTeX Template**
-- ✍️ 原作者：**Xuefeng Han（韩雪峰）**
+- 📁 模板名称：**LiX**
+- ✍️ 原作者：**NickV**
 - 🌐 项目地址：[https://github.com/NicklasVraa/LiX](https://github.com/NicklasVraa/LiX)
 - 📜 许可证：**LaTeX Project Public License v1.3c**
 
