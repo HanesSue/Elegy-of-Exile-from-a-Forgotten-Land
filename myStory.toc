@@ -1,5 +1,5 @@
 \contentsline {chapter}{写在最前}{i}{chapter*.1}%
-\contentsline {section}{一些关于创作的琐碎}{i}{section*.2}%
+\contentsline {section}{关于传说与史诗的一切}{i}{section*.2}%
 \thispagestyle {empty}
 \ttl@change@i {\@ne }{part}{0pt}{\vspace {1.5ex}\hrule \vspace {1.5ex}\centering \Large \bfseries }{\contentslabel {0em}}{}{\hfill \contentspage \vspace {1ex}}\relax 
 \ttl@change@v {part}{}{}{}\relax 
